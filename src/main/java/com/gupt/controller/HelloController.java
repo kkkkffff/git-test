@@ -10,4 +10,8 @@ public class HelloController {
 	public String sayHello() {
 		return "hello";
 	}
+	
+	public String getTest2() {
+		return "test2";
+	}
 }
