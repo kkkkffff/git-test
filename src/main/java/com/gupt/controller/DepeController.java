@@ -7,4 +7,7 @@ package com.gupt.controller;
  */
 public class DepeController {
 
+	public String getDept() {
+		return "dept";
+	}
 }
