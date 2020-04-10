@@ -14,4 +14,8 @@ public class HelloController {
 	public String getTest2() {
 		return "test2";
 	}
+	
+	public String getHello() {
+		return "getHello";
+	}
 }
